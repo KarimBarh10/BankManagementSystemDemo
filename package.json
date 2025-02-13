@@ -1,15 +1,6 @@
-{
-  "homepage": "http://KarimBarh10.github.io/BankManagementSystemDemo",
-  "devDependencies": {
-    "gh-pages": "^6.3.0"
-  },
-  "scripts":{
-    "start" : "react-scripts start",
-    "predeploy":"npm run build",
-    "deploy" : "gh-pages -d build",
-    "build": "react-scripts build",
-    "test": "react-scripts test",
-    "eject": "react-scripts test"
-  }
 
+{
+"scripts": {
+"start": "node your-main-file.js"
+}
 }
